@@ -1,0 +1,1220 @@
+# depslib dependency file v1.0
+1663286809 source:a:\principal\documentos\code projects\codeblocks\poligonoanimadomodelado\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+
+1426371328 a:\principal\documentos\code projects\codeblocks\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 a:\principal\documentos\code projects\codeblocks\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1663719532 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Figuras.h"
+
+1663311693 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\operaciones.cpp
+	"Operaciones.h"
+
+1663313152 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\operaciones.h
+
+1663436404 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\omatrices.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	"OMatrices.h"
+
+1663436404 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\omatrices.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+
+1663718737 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\ommodelado.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OMModelado.h"
+
+1663710453 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\ommodelado.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+
+1663719353 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\opuntox.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OPuntox.h"
+	<iostream>
+
+1663470221 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\opuntox.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OMatrices.h"
+
+1663462724 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\gabinardo.cpp
+	"gabinardo.h"
+
+1663462724 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\gabinardo.h
+
+1663468347 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\modeladoc.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1663717682 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\modeladoc.cpp
+	"ModeladoC.h"
+	<iostream>
+
+1663479879 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\bresenham.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bresenham.h"
+
+1663479899 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\bresenham.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1663719462 source:a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\src\figuras.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Figuras.h"
+
+1663478865 a:\principal\documentos\code projects\codeblocks\potaxie (prueba)\include\figuras.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"Bresenham.h"
+
+1663767965 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Figuras.h"
+
+1663725845 a:\principal\documentos\code projects\codeblocks\poligonardo v.1\include\omatrices.h
+	<iomanip>
+	<stdlib.h>
+
+1663726587 a:\principal\documentos\code projects\codeblocks\poligonardo v.1\include\opuntox.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+
+1663726587 a:\principal\documentos\code projects\codeblocks\poligonardo v.1\include\ommodelado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+
+1663726587 a:\principal\documentos\code projects\codeblocks\poligonardo v.1\include\modeladoc.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1663726587 a:\principal\documentos\code projects\codeblocks\poligonardo v.1\include\bresenham.h
+
+1663738397 a:\principal\documentos\code projects\codeblocks\poligonardo v.1\include\figuras.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+
+1663727664 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\src\bresenham.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bresenham.h"
+
+1663740443 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\src\figuras.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Figuras.h"
+
+1663738965 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\src\modeladoc.cpp
+	"ModeladoC.h"
+
+1663725845 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\src\omatrices.cpp
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1663738929 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\src\ommodelado.cpp
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMModelado.h"
+
+1663725658 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.1\src\opuntox.cpp
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OPuntox.h"
+
+1664136093 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ControlV.h"
+	"Bresenham.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"KeyGlazz.h"
+	"Stage.h"
+
+1663725845 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\omatrices.h
+	<iomanip>
+	<stdlib.h>
+
+1663942186 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\opuntox.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"RPunto.h"
+
+1663794647 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\ommodelado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+
+1663983966 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\modeladoc.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1664141173 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\bresenham.h
+	"OLinea.h"
+
+1664140243 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\figuras.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663813170 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\bresenham.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bresenham.h"
+
+1664140243 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\figuras.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+
+1663983966 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\modeladoc.cpp
+	"ModeladoC.h"
+
+1663725845 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\omatrices.cpp
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1663738929 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\ommodelado.cpp
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMModelado.h"
+
+1663942186 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\opuntox.cpp
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OPuntox.h"
+
+1664128200 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\rpunto.cpp
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664128200 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\rpunto.h
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1663800927 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\olinea.cpp
+	<iomanip>
+	<stdlib.h>
+	"OLinea.h"
+
+1663800927 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\olinea.h
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664083407 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\triangulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Triangulo.h"
+
+1663969175 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\triangulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663972294 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\circulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664132691 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\circulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Circulo.h"
+	"ControlV.h"
+
+1664133770 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\cuadrado.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+
+1663971213 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\cuadrado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663985940 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\keyglazz.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"KeyGlazz.h"
+	"ControlV.h"
+
+1663985940 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\keyglazz.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664140299 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\stage.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<iomanip>
+	<stdlib.h>
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Stage.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"KeyGlazz.h"
+	"Figuras.h"
+	"Background.h"
+
+1663970617 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\stage.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+
+1663984252 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\controlv.cpp
+	"ModeladoC.h"
+	"ControlV.h"
+
+1663984163 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\controlv.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1664140789 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.2\src\background.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Background.h"
+	<iostream>
+
+1664132021 a:\principal\documentos\code projects\codeblocks\poligonardo v.2\include\background.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664323006 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ControlV.h"
+	"Stage.h"
+
+1664331751 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\controlv.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1663725845 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\omatrices.h
+	<iomanip>
+	<stdlib.h>
+
+1663942186 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\opuntox.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"RPunto.h"
+
+1664128200 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\rpunto.h
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1664330720 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\ommodelado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+
+1664141173 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\bresenham.h
+	"OLinea.h"
+
+1664329221 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\olinea.h
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664332607 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\cuadrado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664332735 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\triangulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664332749 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\circulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663985940 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\keyglazz.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664335269 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\stage.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+
+1663813170 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\bresenham.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bresenham.h"
+
+1664132691 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\circulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Circulo.h"
+	"ControlV.h"
+
+1664331317 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\modeladoc.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1663984252 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\controlv.cpp
+	"ModeladoC.h"
+	"ControlV.h"
+
+1664332607 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\cuadrado.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+
+1664323146 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\figuras.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+
+1664333524 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\figuras.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664213073 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\keyglazz.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"KeyGlazz.h"
+	"ControlV.h"
+
+1664331317 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\modeladoc.cpp
+	"ModeladoC.h"
+
+1664329936 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\olinea.cpp
+	<iomanip>
+	<stdlib.h>
+	"OLinea.h"
+
+1663725845 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\omatrices.cpp
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1664330720 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\ommodelado.cpp
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMModelado.h"
+
+1663942186 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\opuntox.cpp
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OPuntox.h"
+
+1664128200 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\rpunto.cpp
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664335269 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\stage.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Stage.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"KeyGlazz.h"
+	"Figuras.h"
+	"Background.h"
+
+1664335269 a:\principal\documentos\code projects\codeblocks\poligonardo v.3\include\background.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664332735 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\triangulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Triangulo.h"
+
+1664323146 source:a:\principal\documentos\code projects\codeblocks\poligonardo v.3\src\background.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+	"KeyGlazz.h"
+	"Background.h"
+
+1664323006 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ControlV.h"
+	"Stage.h"
+
+1664331751 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\controlv.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1663725845 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\omatrices.h
+	<iomanip>
+	<stdlib.h>
+
+1663942186 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\opuntox.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"RPunto.h"
+
+1664128200 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\rpunto.h
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1664330720 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\ommodelado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+
+1664335269 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\stage.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+
+1664141173 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\bresenham.h
+	"OLinea.h"
+
+1664329221 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\olinea.h
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664323146 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\background.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+	"KeyGlazz.h"
+	"Background.h"
+
+1664331317 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\modeladoc.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1664332607 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\cuadrado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664332735 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\triangulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664332749 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\circulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664333524 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\figuras.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663985940 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\keyglazz.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664335269 a:\principal\escritorio\proyecto1_jesushuertaaguilar\include\background.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663813170 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\bresenham.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bresenham.h"
+
+1664132691 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\circulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Circulo.h"
+	"ControlV.h"
+
+1663984252 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\controlv.cpp
+	"ModeladoC.h"
+	"ControlV.h"
+
+1664332607 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\cuadrado.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+
+1664323146 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\figuras.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+
+1664213073 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\keyglazz.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"KeyGlazz.h"
+	"ControlV.h"
+
+1664331317 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\modeladoc.cpp
+	"ModeladoC.h"
+
+1664329936 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\olinea.cpp
+	<iomanip>
+	<stdlib.h>
+	"OLinea.h"
+
+1663725845 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\omatrices.cpp
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1664330720 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\ommodelado.cpp
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMModelado.h"
+
+1663942186 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\opuntox.cpp
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OPuntox.h"
+
+1664128200 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\rpunto.cpp
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664335269 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\stage.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Stage.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"KeyGlazz.h"
+	"Figuras.h"
+	"Background.h"
+
+1664332735 source:a:\principal\escritorio\proyecto1_jesushuertaaguilar\src\triangulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Triangulo.h"
+
+1664319406 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ControlV.h"
+	"Stage.h"
+
+1664328151 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\controlv.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1663722245 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\omatrices.h
+	<iomanip>
+	<stdlib.h>
+
+1663938586 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\opuntox.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"RPunto.h"
+
+1664124600 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\rpunto.h
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1664327120 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\ommodelado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+
+1664331669 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\stage.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+
+1664137573 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\bresenham.h
+	"OLinea.h"
+
+1664325621 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\olinea.h
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664319546 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\background.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+	"KeyGlazz.h"
+	"Background.h"
+
+1664327717 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\modeladoc.h
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+
+1664329007 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\cuadrado.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664329135 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\triangulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664329149 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\circulo.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664329924 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\figuras.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663982340 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\keyglazz.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1664331669 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\include\background.h
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"Bresenham.h"
+	"ControlV.h"
+
+1663809570 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\bresenham.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bresenham.h"
+
+1664129091 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\circulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"Circulo.h"
+	"ControlV.h"
+
+1663980652 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\controlv.cpp
+	"ModeladoC.h"
+	"ControlV.h"
+
+1664329007 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\cuadrado.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+
+1664319546 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\figuras.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"Figuras.h"
+
+1664209473 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\keyglazz.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"KeyGlazz.h"
+	"ControlV.h"
+
+1664327717 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\modeladoc.cpp
+	"ModeladoC.h"
+
+1664326336 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\olinea.cpp
+	<iomanip>
+	<stdlib.h>
+	"OLinea.h"
+
+1663722245 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\omatrices.cpp
+	<iomanip>
+	<stdlib.h>
+	"OMatrices.h"
+
+1664327120 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\ommodelado.cpp
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	"OMModelado.h"
+
+1663938586 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\opuntox.cpp
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	<vector>
+	"OPuntox.h"
+
+1664124600 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\rpunto.cpp
+	<iomanip>
+	<stdlib.h>
+	"RPunto.h"
+
+1664331669 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\stage.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Stage.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	"KeyGlazz.h"
+	"Figuras.h"
+	"Background.h"
+
+1664329135 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\proyecto 1\proyecto1_jesushuertaaguilar\src\triangulo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iomanip>
+	<stdlib.h>
+	<vector>
+	"OMatrices.h"
+	"OPuntox.h"
+	"OMModelado.h"
+	"ModeladoC.h"
+	"Bresenham.h"
+	"ControlV.h"
+	"Triangulo.h"
+
